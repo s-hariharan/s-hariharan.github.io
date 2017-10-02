@@ -5,13 +5,13 @@ categories: projects
 permalink: research/grain-growth
 ---
 
-During my intern at [IISc, Bangalore][IIsc], I explored the Monte Carlo method to model grain growth. Specifically the model that is being simulated is called the Q-states potts model. 
+During my intern at [IISc, Bangalore][IIsc], I explored  Monte Carlo methods to model grain growth. The Monte Carlo method is known for its reduced complexity interms of computation. 
 
 The exact formulation that has been followed would be posted here in the near future.
 
-The model is coded in Javascript. The calculation is performed in real time in the browser you wish to open the link that is given below. The interactiveness of the simulations allows one to dynamically change few parameters and observe its effect on the simulation. The code is available [here][ggm_repo].
+The model is coded in Javascript. Coding in Javascript provided me with several flexibilities. The aim of the project was to develop a model that can be exhibited in a web browser. The interactive inputs of the simulations allows one to dynamically change few parameters and see its effect on the simulation. The code is available [link][ggm_repo].
 
-For the simulation visit this [link][ggb_sim].
+For the page contaning the simulation, please visit this [link][ggb_sim]
 
 [IIsc]: http://www.iisc.ac.in/ "IISc"
 [ggb_sim]:https://s-hariharan.github.io/Grain_growth_anisotropic/ "simulation"

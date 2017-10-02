@@ -4,7 +4,7 @@ title: Research
 permalink: research/
 ---
 
-You will be able to find about my academic research in this page. Few simulations are hosted in github pages for which links are given in the description pages for each project.
+This page is to index all the projects that I have been part of.
 
 ### Project pages
 [Precipitation in Ternary Alloys][ppt-ternary] &nbsp;<small style="color: #c0c0c0">Ongoing</small><br>
@@ -20,9 +20,8 @@ You will be able to find about my academic research in this page. Few simulation
 
 
 [ppt-ternary]:{{ site.url }}/research/precipitation-in-Ternary-Alloys "ppt in Ternary"
-[cuda]:{{ site.url }}/research/precipitation-in-Ternary-Alloys "ppt in Ternary"
+[cuda]:{{ site.url }}/research/gpu-computing "gpu-computing"
 [GGM]:{{ site.url }}/research/grain-growth "grain growth"
-[PFM]:{{ site.url }}/research/precipitation-in-Ternary-Alloys "ppt in Ternary"
-[thesis]:{{ site.url }}/research/precipitation-in-Ternary-Alloys "ppt in Ternary"
-[ppt-ternary]:{{ site.url }}/research/precipitation-in-Ternary-Alloys "ppt in Ternary"
-[ppt-ternary]:{{ site.url }}/research/precipitation-in-Ternary-Alloys "ppt in Ternary"
+[PFM]:{{ site.url }}/research/anisotropy-solid "anisotropy"
+[thesis]:{{ site.url }}/research/undergrad-thesis "thesis"
+

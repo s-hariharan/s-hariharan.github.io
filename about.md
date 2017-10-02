@@ -4,8 +4,11 @@ title: About me.
 permalink: about/
 ---
 
-I am a final year undergraduate student studying in National Institute of Technology, Trichy. I was brought up in Hosur, India where I completed my higher secondary education.<br>
-The idea of describing events happening through mathematics always fascinated me. Fortunately I was able to find the field of Computational Material Sciecne, where mathematical modeling and experiments run in computers leads to better understanding of materials.
+I am a final year undergraduate student studying in National Institute of Technology, Trichy. I was brought up in Hosur, India where I completed my higher secondary education.
+
+The idea of describing events happening through mathematics always fascinated me. Fortunately I was able to find the field of Computational Material Science, where mathematical modeling and digital experiments that are run in computers leads to better understanding of materials.
+
+I am seeking a PhD position to start in fall 2018.
 
 
 ## Education
@@ -22,8 +25,8 @@ CGPA: 8.1/10
 
 **Indian Institute of Science**, Bengaluru, India  
 *Research Assistant*  
-May 2017 - Present, Advisor: [Prof. T.A Abinandanan][Abi],   
-Worked on Computational methods to model microstructural evolution. Check research page for further details.
+Since May 2017, Advisor: [Prof. T.A Abinandanan][Abi],   
+Worked on Computational methods to model microstructural evolution. Check the research page for further details.
 
 **Indian Institute of Technology**, Bomaby, India
 *Research Assistant*  
