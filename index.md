@@ -6,9 +6,12 @@ title: Home
 # Hello, This is Hariharan.
 *Welcome to my webspace*
 
+<figure>
+  <img class="home" src="/images/Home.jpg" alt="Me">
+  
+</figure>
 
-
-I am final year undergraduate student studying [Metallurgical and Materials Engineering][mme] at [National Institute of Technology][NITT], Trichy, India.
+I am a final year undergraduate student studying [Metallurgical and Materials Engineering][mme] at [National Institute of Technology][NITT], Trichy, India.
 
 I am interested in the inter disciplinary field of **Computational Material Science**. Compuational Engineering as described [here][comp] is relatively a new field of Engineering where mathematical models are coupled with high performance computing to solve complex physical problem. I specifically work on microstructural evolution using various techniques like [Phase field Models][Phase] and [Monte Carlo techniques][Monte].
 
@@ -47,7 +50,7 @@ Everything else.
 [monthly-music]: {{ site.url }}/monthly-music
 
 [NITT]: http://www.nitt.edu "NIT,Trichy"
-[mme]: https://www.nitt.edu/home/academics/departments/meta/"GT "Materials at NITT"
+[mme]: https://www.nitt.edu/home/academics/departments/meta/ "Materials at NITT"
 [comp]: https://en.wikipedia.org/wiki/Computational_engineering "Computational_engineering"
 [Phase]: https://en.wikipedia.org/wiki/Phase_field_models "Phase field models"
 [Monte]: https://en.wikipedia.org/wiki/Monte_Carlo_method "Monte Carlo"
