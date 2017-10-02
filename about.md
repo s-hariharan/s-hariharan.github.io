@@ -4,7 +4,7 @@ title: About me.
 permalink: about/
 ---
 
-I am final year undergraduate student studying in National Institute of Technology, Trichy. I was brought up in Hosur, India where I completed my higher secondary education.<br>
+I am a final year undergraduate student studying in National Institute of Technology, Trichy. I was brought up in Hosur, India where I completed my higher secondary education.<br>
 The idea of describing events happening through mathematics always fascinated me. Fortunately I was able to find the field of Computational Material Sciecne, where mathematical modeling and experiments run in computers leads to better understanding of materials.
 
 
