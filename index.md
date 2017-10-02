@@ -13,11 +13,11 @@ title: Home
 
 I am a final year undergraduate student studying [Metallurgical and Materials Engineering][mme] at [National Institute of Technology][NITT], Trichy, India.
 
-I am interested in the inter disciplinary field of **Computational Material Science**. Compuational Engineering as described [here][comp] is relatively a new field of Engineering where mathematical models are coupled with high performance computing to solve complex physical problem. I specifically work on microstructural evolution using various techniques like [Phase field Models][Phase] and [Monte Carlo techniques][Monte].
+I am interested in the inter disciplinary field of **Computational Material Science**. Computational Engineering as described [here][comp] is relatively a new field of Engineering where mathematical models are coupled with high performance computing to solve complex physical problem. I specifically work on microstructural evolution using various techniques like [Phase field Models][Phase] and [Monte Carlo techniques][Monte].
 
 Aeromodeling is another activity I spend my time in. I am part of [The Third Dimension Aeromodeling Club][3d.amc] at my campus. We work on design, structural analysis, automation and fabrication of fixed wing aircrafts and multirotors.
 
-This would serve as my personal website where I document my research and other intersting activity I am part of. Please feel free to browse your way through the website.
+This would serve as my personal website where I document my research and other interesting activity I am part of. Please feel free to browse your way through the website.
 # [Research][research]
 Academic research I am part of.
 
