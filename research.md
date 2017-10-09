@@ -10,6 +10,7 @@ This page is to index all the projects that I have been part of.
 [Precipitation in Ternary Alloys][ppt-ternary] &nbsp;<small style="color: #c0c0c0">Ongoing</small><br>
 [GPU computing of Spinodal Decomposition][cuda] &nbsp;<small style="color: #c0c0c0">2017</small><br>
 [Grain Growth Model using Monte Carlo methods][GGM] &nbsp;<small style="color: #c0c0c0">2017</small><br>
+[Two Dimensional Ising Model][ising] &nbsp;<small style="color: #c0c0c0">2017</small><br>
 [Anisotropy in Phase field models describing Solidification][PFM] &nbsp;<small style="color: #c0c0c0">2016</small>
 
 ### Undergraduate Thesis
@@ -24,4 +25,4 @@ This page is to index all the projects that I have been part of.
 [GGM]:{{ site.url }}/research/grain-growth "grain growth"
 [PFM]:{{ site.url }}/research/anisotropy-solid "anisotropy"
 [thesis]:{{ site.url }}/research/undergrad-thesis "thesis"
-
+[ising]:{{ site.url }}/research/ising "ising_model"
