@@ -28,7 +28,7 @@ CGPA: 8.1/10
 Since May 2017, Advisor: [Prof. T.A Abinandanan][Abi],   
 Worked on Computational methods to model microstructural evolution. Check the research page for further details.
 
-**Indian Institute of Technology**, Bomaby, India
+**Indian Institute of Technology**, Bombay, India
 *Research Assistant*  
 Winter 2016 ,  Advisor: [Prof. M.P Gururajan][Guru],   
 <span style="margin-top:10px; display:block"></span>
@@ -39,7 +39,7 @@ Project: Incorporation of interfacial energy and attachment Kinetic Anisotropy i
 *Research Intern*  
 Summer 2016,  
 <span style="margin-top:10px; display:block"></span>
-Project: Determination of service life of ball joints throug pin on disc experiments.  
+Project: Determination of service life of ball joints through pin on disc experiments.  
 
 
 
